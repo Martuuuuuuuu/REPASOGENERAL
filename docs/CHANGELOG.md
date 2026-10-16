@@ -28,3 +28,9 @@
 - Se reemplazaron los datos falsos de la institución por los reales `Institución: E.E.S.T. N° 1 "Escuela de Educación Secundaria Técnica N° 1" - Vicente López`.
 - Se eliminó el nombre fictício del programa `Jung Kook`.
 - Se reemplazó el nombre fictício del programa por mi identitad real `Martina Araujo`.
+
+## [1.2.0] - 2026/10/16
+
+### Capturas y pruebas
+- Se eliminó el archivo `.gitkeep` de la carpeta `capturas`.
+- Se reemplazó el archivo eliminado `.gitkeep` por la evidencia de la correcta compilación del programa `esquema_ram.png` y un breve dibujo hecho a mano `taza_memoria`.
