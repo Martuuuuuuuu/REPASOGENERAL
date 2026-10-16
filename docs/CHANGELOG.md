@@ -34,3 +34,10 @@
 ### Capturas y pruebas
 - Se eliminó el archivo `.gitkeep` de la carpeta `capturas`.
 - Se reemplazó el archivo eliminado `.gitkeep` por la evidencia de la correcta compilación del programa `esquema_ram.png` y un breve dibujo hecho a mano `taza_memoria`.
+
+## [1.3.0] - 2026-10-16
+
+### Archivos basicos de GitHub
+- Se agregó dentro del archivo `.gitignore` el parametro `*.exe` para que Git ignore todos los archivos de lote ejecutable con esa terminación.
+- Se agregó dentro de `LICENSE` la licensia MIT correspondiente a la tarea, con su descripción detallada.
+- Se agregó dentro de `README.md` la descripción de la Actividad, información de como fue realizada y breves explicaciones de los retos.
