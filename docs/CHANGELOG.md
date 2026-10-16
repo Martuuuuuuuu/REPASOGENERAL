@@ -41,3 +41,8 @@
 - Se agregó dentro del archivo `.gitignore` el parametro `*.exe` para que Git ignore todos los archivos de lote ejecutable con esa terminación.
 - Se agregó dentro de `LICENSE` la licensia MIT correspondiente a la tarea, con su descripción detallada.
 - Se agregó dentro de `README.md` la descripción de la Actividad, información de como fue realizada y breves explicaciones de los retos.
+
+## [1.2.1] - 2026-10-16
+
+### Corrección de imagen
+- Se corrigió el nombre de la imágen anteriormente llamada `taza_memoria` a `traza_memoria` por error de tipeo.
